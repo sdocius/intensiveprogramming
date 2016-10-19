@@ -1,0 +1,53 @@
+body{
+
+background-image: url("ss.png");
+background-repeat: no-repeat;
+}
+
+li {
+    display: inline;
+}
+
+a {
+    display: block;
+    padding: 8px;
+    background-color: 	#FF3333;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: 	#FF3333;
+
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li {
+    float: left;
+}
+
+ul {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+li a:hover {
+    background-color: 	#CCFF33;
+}
+
+ul {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
